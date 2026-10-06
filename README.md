@@ -1,4 +1,4 @@
-# 🤟 Libras Sign Language Recognition
+# Libras Sign Language Recognition
 
 An experimental machine learning project for real-time Brazilian Sign Language (Libras) recognition using computer vision and temporal modeling.
 
