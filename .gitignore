@@ -218,3 +218,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+
+# Datasets (large files, and signer videos should never be public)
+data/
+*.csv
+*.npz
+
+# Trained models and checkpoints
+*.h5
+*.keras
+models/*.pt
+checkpoints/
+
+# Credentials
+credentials.json
+*.key
