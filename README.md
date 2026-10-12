@@ -14,6 +14,8 @@ The project is being developed progressively, starting with fundamental machine 
 
 Communication is a fundamental part of human interaction, yet language barriers can make communication difficult between people who use different languages or communication systems.
 
+The personal motivation behind this project comes from spending time with my girlfriend's mother, who is blind. Seeing up close how complicated daily life can be for people with disabilities pushed me to use my technical skills toward something that could actually help accessibility and quality of life for people in similar situations, rather than another generic coding project.
+
 This project was created as an independent learning and research project to explore how machine learning and computer vision can be applied to Brazilian Sign Language.
 
 Beyond building a final application, the project is also an opportunity to study the complete process of developing a machine learning system: understanding the problem, collecting and processing data, selecting appropriate representations, training models, evaluating their performance, analyzing errors, and integrating the model into a real-time application.
